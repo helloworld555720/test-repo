@@ -1,3 +1,3 @@
-# test-repo
+# TEST-REPO
 
-A basic file committed by Claude to confirm the GitHub connection works.
+A BASIC FILE COMMITTED BY CLAUDE TO CONFIRM THE GITHUB CONNECTION WORKS.
